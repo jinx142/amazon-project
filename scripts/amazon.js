@@ -76,7 +76,7 @@ document.querySelectorAll('.js-add-to-cart')
 
       addToCart(productId);
 
-      updateCartQuantity()
+      updateCartQuantity();
       
     });
   });
